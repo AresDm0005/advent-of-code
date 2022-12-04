@@ -1,6 +1,6 @@
 ﻿namespace Solutions;
 
-public class Day2
+public static class Day2
 {
     public static readonly string InputFile = "Day2-1.txt";
 
