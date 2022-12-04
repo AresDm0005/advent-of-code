@@ -10,4 +10,6 @@ void PrintAnswers()
     Console.WriteLine($"D2S2: {Day2.SecondStar()} points of score");
     Console.WriteLine($"D3S1: {Day3.FirstStar()} points of score");
     Console.WriteLine($"D3S2: {Day3.SecondStar()} points of score");
+    Console.WriteLine($"D4S1: {Day4.FirstStar()} full overlaps");
+    Console.WriteLine($"D4S2: {Day4.SecondStar()} overlaps");
 }
