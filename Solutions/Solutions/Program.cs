@@ -16,4 +16,6 @@ void PrintAnswers()
     Console.WriteLine($"D5S2: {Day5.SecondStar()} containers are first");
     Console.WriteLine($"D6S1: {Day6.FirstStar()} position of transmission start");
     Console.WriteLine($"D6S2: {Day6.SecondStar()} position of message start");
+    Console.WriteLine($"D7S1: {Day7.FirstStar()} bytes");
+    Console.WriteLine($"D7S2: {Day7.SecondStar()} smallest to delete");
 }
