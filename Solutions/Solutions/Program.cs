@@ -14,4 +14,6 @@ void PrintAnswers()
     Console.WriteLine($"D4S2: {Day4.SecondStar()} overlaps");
     Console.WriteLine($"D5S1: {Day5.FirstStar()} containers are first");
     Console.WriteLine($"D5S2: {Day5.SecondStar()} containers are first");
+    Console.WriteLine($"D6S1: {Day6.FirstStar()} position of transmission start");
+    Console.WriteLine($"D6S2: {Day6.SecondStar()} position of message start");
 }
