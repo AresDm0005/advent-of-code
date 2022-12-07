@@ -12,4 +12,6 @@ void PrintAnswers()
     Console.WriteLine($"D3S2: {Day3.SecondStar()} points of score");
     Console.WriteLine($"D4S1: {Day4.FirstStar()} full overlaps");
     Console.WriteLine($"D4S2: {Day4.SecondStar()} overlaps");
+    Console.WriteLine($"D5S1: {Day5.FirstStar()} containers are first");
+    Console.WriteLine($"D5S2: {Day5.SecondStar()} containers are first");
 }
